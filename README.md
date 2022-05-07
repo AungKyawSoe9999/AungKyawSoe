@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AungKyawSoe9999
+- 👀 I’m interested in Machine Learning and AI.
+- 🌱 I’m currently learning Computer Sceince.
